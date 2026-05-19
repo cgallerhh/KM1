@@ -1,0 +1,388 @@
+jahr,monat,stichtag,kassenart,kennzahl_code,kennzahl_name,geschlecht,wert,quelle_datei,quelle_seite
+2026,4,2026-04-01,Insgesamt,anzahl_kassen,Anzahl der Kassen insgesamt,Zu,93.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,AOK,anzahl_kassen,Anzahl der Kassen insgesamt,Zu,11.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,BKK,anzahl_kassen,Anzahl der Kassen insgesamt,Zu,68.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,IKK,anzahl_kassen,Anzahl der Kassen insgesamt,Zu,6.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,LKK,anzahl_kassen,Anzahl der Kassen insgesamt,Zu,1.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,KBS,anzahl_kassen,Anzahl der Kassen insgesamt,Zu,1.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,vdek,anzahl_kassen,Anzahl der Kassen insgesamt,Zu,6.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,Insgesamt,landesunmittelbar,Landesunmittelbare Kassen,Zu,34.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,AOK,landesunmittelbar,Landesunmittelbare Kassen,Zu,11.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,BKK,landesunmittelbar,Landesunmittelbare Kassen,Zu,21.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,IKK,landesunmittelbar,Landesunmittelbare Kassen,Zu,2.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,Insgesamt,bundesunmittelbar,Bundesunmittelbare Kassen,Zu,59.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,AOK,bundesunmittelbar,Bundesunmittelbare Kassen,Zu,47.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,BKK,bundesunmittelbar,Bundesunmittelbare Kassen,Zu,4.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,IKK,bundesunmittelbar,Bundesunmittelbare Kassen,Zu,1.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,LKK,bundesunmittelbar,Bundesunmittelbare Kassen,Zu,0.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,KBS,bundesunmittelbar,Bundesunmittelbare Kassen,Zu,1.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,vdek,bundesunmittelbar,Bundesunmittelbare Kassen,Zu,6.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,Insgesamt,regional_geoeffnet,Regional geoeffnete Kassen,Zu,38.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,AOK,regional_geoeffnet,Regional geoeffnete Kassen,Zu,11.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,BKK,regional_geoeffnet,Regional geoeffnete Kassen,Zu,24.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,IKK,regional_geoeffnet,Regional geoeffnete Kassen,Zu,3.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,Insgesamt,bundesweit_geoeffnet,Bundesweit geoeffnete Kassen,Zu,34.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,AOK,bundesweit_geoeffnet,Bundesweit geoeffnete Kassen,Zu,24.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,BKK,bundesweit_geoeffnet,Bundesweit geoeffnete Kassen,Zu,3.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,IKK,bundesweit_geoeffnet,Bundesweit geoeffnete Kassen,Zu,1.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,LKK,bundesweit_geoeffnet,Bundesweit geoeffnete Kassen,Zu,6.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,Insgesamt,nicht_geoeffnet,Nicht geoeffnete Kassen,Zu,21.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,AOK,nicht_geoeffnet,Nicht geoeffnete Kassen,Zu,20.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,BKK,nicht_geoeffnet,Nicht geoeffnete Kassen,Zu,1.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,Insgesamt,auszubildende,Auszubildende,Mä,820341.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,AOK,auszubildende,Auszubildende,Mä,308168.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,BKK,auszubildende,Auszubildende,Mä,149083.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,IKK,auszubildende,Auszubildende,Mä,56944.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,LKK,auszubildende,Auszubildende,Mä,0.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,KBS,auszubildende,Auszubildende,Mä,7972.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,vdek,auszubildende,Auszubildende,Mä,298174.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,Insgesamt,auszubildende,Auszubildende,Fr,631192.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,AOK,auszubildende,Auszubildende,Fr,252821.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,BKK,auszubildende,Auszubildende,Fr,100536.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,IKK,auszubildende,Auszubildende,Fr,42239.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,LKK,auszubildende,Auszubildende,Fr,0.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,KBS,auszubildende,Auszubildende,Fr,6345.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,vdek,auszubildende,Auszubildende,Fr,229251.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,Insgesamt,auszubildende,Auszubildende,Zu,1451533.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,AOK,auszubildende,Auszubildende,Zu,560989.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,BKK,auszubildende,Auszubildende,Zu,249619.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,IKK,auszubildende,Auszubildende,Zu,99183.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,LKK,auszubildende,Auszubildende,Zu,0.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,KBS,auszubildende,Auszubildende,Zu,14317.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,vdek,auszubildende,Auszubildende,Zu,527425.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,Insgesamt,alg_sgb_iii,Arbeitslosengeldempfaenger nach SGB III,Mä,625501.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,AOK,alg_sgb_iii,Arbeitslosengeldempfaenger nach SGB III,Mä,261924.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,BKK,alg_sgb_iii,Arbeitslosengeldempfaenger nach SGB III,Mä,93730.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,IKK,alg_sgb_iii,Arbeitslosengeldempfaenger nach SGB III,Mä,47256.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,LKK,alg_sgb_iii,Arbeitslosengeldempfaenger nach SGB III,Mä,102.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,KBS,alg_sgb_iii,Arbeitslosengeldempfaenger nach SGB III,Mä,7891.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,vdek,alg_sgb_iii,Arbeitslosengeldempfaenger nach SGB III,Mä,214598.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,Insgesamt,alg_sgb_iii,Arbeitslosengeldempfaenger nach SGB III,Fr,480606.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,AOK,alg_sgb_iii,Arbeitslosengeldempfaenger nach SGB III,Fr,178803.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,BKK,alg_sgb_iii,Arbeitslosengeldempfaenger nach SGB III,Fr,75398.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,IKK,alg_sgb_iii,Arbeitslosengeldempfaenger nach SGB III,Fr,31754.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,LKK,alg_sgb_iii,Arbeitslosengeldempfaenger nach SGB III,Fr,117.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,KBS,alg_sgb_iii,Arbeitslosengeldempfaenger nach SGB III,Fr,5412.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,vdek,alg_sgb_iii,Arbeitslosengeldempfaenger nach SGB III,Fr,189122.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,Insgesamt,alg_sgb_iii,Arbeitslosengeldempfaenger nach SGB III,Zu,1106107.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,AOK,alg_sgb_iii,Arbeitslosengeldempfaenger nach SGB III,Zu,440727.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,BKK,alg_sgb_iii,Arbeitslosengeldempfaenger nach SGB III,Zu,169128.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,IKK,alg_sgb_iii,Arbeitslosengeldempfaenger nach SGB III,Zu,79010.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,LKK,alg_sgb_iii,Arbeitslosengeldempfaenger nach SGB III,Zu,219.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,KBS,alg_sgb_iii,Arbeitslosengeldempfaenger nach SGB III,Zu,13303.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,vdek,alg_sgb_iii,Arbeitslosengeldempfaenger nach SGB III,Zu,403720.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,Insgesamt,buergergeld,Buergergeld-Beziehende,Mä,1530363.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,AOK,buergergeld,Buergergeld-Beziehende,Mä,870633.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,BKK,buergergeld,Buergergeld-Beziehende,Mä,137200.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,IKK,buergergeld,Buergergeld-Beziehende,Mä,110974.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,LKK,buergergeld,Buergergeld-Beziehende,Mä,300.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,KBS,buergergeld,Buergergeld-Beziehende,Mä,23449.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,vdek,buergergeld,Buergergeld-Beziehende,Mä,387807.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,Insgesamt,buergergeld,Buergergeld-Beziehende,Fr,1566993.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,AOK,buergergeld,Buergergeld-Beziehende,Fr,925663.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,BKK,buergergeld,Buergergeld-Beziehende,Fr,133966.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,IKK,buergergeld,Buergergeld-Beziehende,Fr,96686.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,LKK,buergergeld,Buergergeld-Beziehende,Fr,286.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,KBS,buergergeld,Buergergeld-Beziehende,Fr,23352.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,vdek,buergergeld,Buergergeld-Beziehende,Fr,387040.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,Insgesamt,buergergeld,Buergergeld-Beziehende,Zu,3097356.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,AOK,buergergeld,Buergergeld-Beziehende,Zu,1796296.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,BKK,buergergeld,Buergergeld-Beziehende,Zu,271166.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,IKK,buergergeld,Buergergeld-Beziehende,Zu,207660.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,LKK,buergergeld,Buergergeld-Beziehende,Zu,586.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,KBS,buergergeld,Buergergeld-Beziehende,Zu,46801.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,vdek,buergergeld,Buergergeld-Beziehende,Zu,774847.0,KM1_Januar_bis_April_2026.pdf,24
+2026,4,2026-04-01,Insgesamt,studierende_praktikanten,Studierende / Praktikanten / Auszubildende ohne Entgelt,Mä,396877.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,AOK,studierende_praktikanten,Studierende / Praktikanten / Auszubildende ohne Entgelt,Mä,73787.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,BKK,studierende_praktikanten,Studierende / Praktikanten / Auszubildende ohne Entgelt,Mä,48991.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,IKK,studierende_praktikanten,Studierende / Praktikanten / Auszubildende ohne Entgelt,Mä,12031.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,LKK,studierende_praktikanten,Studierende / Praktikanten / Auszubildende ohne Entgelt,Mä,752.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,KBS,studierende_praktikanten,Studierende / Praktikanten / Auszubildende ohne Entgelt,Mä,1552.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,vdek,studierende_praktikanten,Studierende / Praktikanten / Auszubildende ohne Entgelt,Mä,259764.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,Insgesamt,studierende_praktikanten,Studierende / Praktikanten / Auszubildende ohne Entgelt,Fr,363501.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,AOK,studierende_praktikanten,Studierende / Praktikanten / Auszubildende ohne Entgelt,Fr,76002.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,BKK,studierende_praktikanten,Studierende / Praktikanten / Auszubildende ohne Entgelt,Fr,48540.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,IKK,studierende_praktikanten,Studierende / Praktikanten / Auszubildende ohne Entgelt,Fr,12473.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,LKK,studierende_praktikanten,Studierende / Praktikanten / Auszubildende ohne Entgelt,Fr,815.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,KBS,studierende_praktikanten,Studierende / Praktikanten / Auszubildende ohne Entgelt,Fr,1552.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,vdek,studierende_praktikanten,Studierende / Praktikanten / Auszubildende ohne Entgelt,Fr,224119.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,Insgesamt,studierende_praktikanten,Studierende / Praktikanten / Auszubildende ohne Entgelt,Zu,760378.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,AOK,studierende_praktikanten,Studierende / Praktikanten / Auszubildende ohne Entgelt,Zu,149789.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,BKK,studierende_praktikanten,Studierende / Praktikanten / Auszubildende ohne Entgelt,Zu,97531.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,IKK,studierende_praktikanten,Studierende / Praktikanten / Auszubildende ohne Entgelt,Zu,24504.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,LKK,studierende_praktikanten,Studierende / Praktikanten / Auszubildende ohne Entgelt,Zu,1567.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,KBS,studierende_praktikanten,Studierende / Praktikanten / Auszubildende ohne Entgelt,Zu,3104.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,vdek,studierende_praktikanten,Studierende / Praktikanten / Auszubildende ohne Entgelt,Zu,483883.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,Insgesamt,kuenstler_publizisten,Selbstaendige Kuenstler und Publizisten,Mä,77138.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,AOK,kuenstler_publizisten,Selbstaendige Kuenstler und Publizisten,Mä,14692.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,BKK,kuenstler_publizisten,Selbstaendige Kuenstler und Publizisten,Mä,9052.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,IKK,kuenstler_publizisten,Selbstaendige Kuenstler und Publizisten,Mä,2409.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,LKK,kuenstler_publizisten,Selbstaendige Kuenstler und Publizisten,Mä,0.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,KBS,kuenstler_publizisten,Selbstaendige Kuenstler und Publizisten,Mä,297.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,vdek,kuenstler_publizisten,Selbstaendige Kuenstler und Publizisten,Mä,50688.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,Insgesamt,kuenstler_publizisten,Selbstaendige Kuenstler und Publizisten,Fr,72017.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,AOK,kuenstler_publizisten,Selbstaendige Kuenstler und Publizisten,Fr,11129.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,BKK,kuenstler_publizisten,Selbstaendige Kuenstler und Publizisten,Fr,9763.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,IKK,kuenstler_publizisten,Selbstaendige Kuenstler und Publizisten,Fr,2139.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,LKK,kuenstler_publizisten,Selbstaendige Kuenstler und Publizisten,Fr,0.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,KBS,kuenstler_publizisten,Selbstaendige Kuenstler und Publizisten,Fr,255.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,vdek,kuenstler_publizisten,Selbstaendige Kuenstler und Publizisten,Fr,48731.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,Insgesamt,kuenstler_publizisten,Selbstaendige Kuenstler und Publizisten,Zu,149155.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,AOK,kuenstler_publizisten,Selbstaendige Kuenstler und Publizisten,Zu,25821.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,BKK,kuenstler_publizisten,Selbstaendige Kuenstler und Publizisten,Zu,18815.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,IKK,kuenstler_publizisten,Selbstaendige Kuenstler und Publizisten,Zu,4548.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,LKK,kuenstler_publizisten,Selbstaendige Kuenstler und Publizisten,Zu,0.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,KBS,kuenstler_publizisten,Selbstaendige Kuenstler und Publizisten,Zu,552.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,vdek,kuenstler_publizisten,Selbstaendige Kuenstler und Publizisten,Zu,99419.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,Insgesamt,pflichtmitglieder_akv,Pflichtmitglieder AKV gesamt,Mä,17818342.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,AOK,pflichtmitglieder_akv,Pflichtmitglieder AKV gesamt,Mä,7200592.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,BKK,pflichtmitglieder_akv,Pflichtmitglieder AKV gesamt,Mä,2792167.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,IKK,pflichtmitglieder_akv,Pflichtmitglieder AKV gesamt,Mä,1333231.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,LKK,pflichtmitglieder_akv,Pflichtmitglieder AKV gesamt,Mä,126314.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,KBS,pflichtmitglieder_akv,Pflichtmitglieder AKV gesamt,Mä,201100.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,vdek,pflichtmitglieder_akv,Pflichtmitglieder AKV gesamt,Mä,6164938.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,Insgesamt,pflichtmitglieder_akv,Pflichtmitglieder AKV gesamt,Fr,17509920.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,AOK,pflichtmitglieder_akv,Pflichtmitglieder AKV gesamt,Fr,6374554.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,BKK,pflichtmitglieder_akv,Pflichtmitglieder AKV gesamt,Fr,2801794.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,IKK,pflichtmitglieder_akv,Pflichtmitglieder AKV gesamt,Fr,1135915.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,LKK,pflichtmitglieder_akv,Pflichtmitglieder AKV gesamt,Fr,23541.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,KBS,pflichtmitglieder_akv,Pflichtmitglieder AKV gesamt,Fr,177602.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,vdek,pflichtmitglieder_akv,Pflichtmitglieder AKV gesamt,Fr,6996514.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,Insgesamt,pflichtmitglieder_akv,Pflichtmitglieder AKV gesamt,Zu,35328262.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,AOK,pflichtmitglieder_akv,Pflichtmitglieder AKV gesamt,Zu,13575146.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,BKK,pflichtmitglieder_akv,Pflichtmitglieder AKV gesamt,Zu,5593961.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,IKK,pflichtmitglieder_akv,Pflichtmitglieder AKV gesamt,Zu,2469146.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,LKK,pflichtmitglieder_akv,Pflichtmitglieder AKV gesamt,Zu,149855.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,KBS,pflichtmitglieder_akv,Pflichtmitglieder AKV gesamt,Zu,378702.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,vdek,pflichtmitglieder_akv,Pflichtmitglieder AKV gesamt,Zu,13161452.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,Insgesamt,freiwillige_mitglieder_mit_kg,Freiwillige Mitglieder mit Anspruch auf Krankengeld,Mä,2481168.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,AOK,freiwillige_mitglieder_mit_kg,Freiwillige Mitglieder mit Anspruch auf Krankengeld,Mä,403791.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,BKK,freiwillige_mitglieder_mit_kg,Freiwillige Mitglieder mit Anspruch auf Krankengeld,Mä,584251.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,IKK,freiwillige_mitglieder_mit_kg,Freiwillige Mitglieder mit Anspruch auf Krankengeld,Mä,102701.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,LKK,freiwillige_mitglieder_mit_kg,Freiwillige Mitglieder mit Anspruch auf Krankengeld,Mä,617.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,KBS,freiwillige_mitglieder_mit_kg,Freiwillige Mitglieder mit Anspruch auf Krankengeld,Mä,15364.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,vdek,freiwillige_mitglieder_mit_kg,Freiwillige Mitglieder mit Anspruch auf Krankengeld,Mä,1374444.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,Insgesamt,freiwillige_mitglieder_mit_kg,Freiwillige Mitglieder mit Anspruch auf Krankengeld,Fr,897910.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,AOK,freiwillige_mitglieder_mit_kg,Freiwillige Mitglieder mit Anspruch auf Krankengeld,Fr,138734.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,BKK,freiwillige_mitglieder_mit_kg,Freiwillige Mitglieder mit Anspruch auf Krankengeld,Fr,182946.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,IKK,freiwillige_mitglieder_mit_kg,Freiwillige Mitglieder mit Anspruch auf Krankengeld,Fr,36184.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,LKK,freiwillige_mitglieder_mit_kg,Freiwillige Mitglieder mit Anspruch auf Krankengeld,Fr,42.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,KBS,freiwillige_mitglieder_mit_kg,Freiwillige Mitglieder mit Anspruch auf Krankengeld,Fr,4247.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,vdek,freiwillige_mitglieder_mit_kg,Freiwillige Mitglieder mit Anspruch auf Krankengeld,Fr,535757.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,Insgesamt,freiwillige_mitglieder_mit_kg,Freiwillige Mitglieder mit Anspruch auf Krankengeld,Zu,3379078.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,AOK,freiwillige_mitglieder_mit_kg,Freiwillige Mitglieder mit Anspruch auf Krankengeld,Zu,542525.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,BKK,freiwillige_mitglieder_mit_kg,Freiwillige Mitglieder mit Anspruch auf Krankengeld,Zu,767197.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,IKK,freiwillige_mitglieder_mit_kg,Freiwillige Mitglieder mit Anspruch auf Krankengeld,Zu,138885.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,LKK,freiwillige_mitglieder_mit_kg,Freiwillige Mitglieder mit Anspruch auf Krankengeld,Zu,659.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,KBS,freiwillige_mitglieder_mit_kg,Freiwillige Mitglieder mit Anspruch auf Krankengeld,Zu,19611.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,vdek,freiwillige_mitglieder_mit_kg,Freiwillige Mitglieder mit Anspruch auf Krankengeld,Zu,1910201.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,Insgesamt,freiwillige_mitglieder_ohne_kg,Freiwillige Mitglieder ohne Anspruch auf Krankengeld,Mä,1658170.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,AOK,freiwillige_mitglieder_ohne_kg,Freiwillige Mitglieder ohne Anspruch auf Krankengeld,Mä,573847.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,BKK,freiwillige_mitglieder_ohne_kg,Freiwillige Mitglieder ohne Anspruch auf Krankengeld,Mä,213230.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,IKK,freiwillige_mitglieder_ohne_kg,Freiwillige Mitglieder ohne Anspruch auf Krankengeld,Mä,112502.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,LKK,freiwillige_mitglieder_ohne_kg,Freiwillige Mitglieder ohne Anspruch auf Krankengeld,Mä,13027.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,KBS,freiwillige_mitglieder_ohne_kg,Freiwillige Mitglieder ohne Anspruch auf Krankengeld,Mä,20734.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,vdek,freiwillige_mitglieder_ohne_kg,Freiwillige Mitglieder ohne Anspruch auf Krankengeld,Mä,724830.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,Insgesamt,freiwillige_mitglieder_ohne_kg,Freiwillige Mitglieder ohne Anspruch auf Krankengeld,Fr,1124375.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,AOK,freiwillige_mitglieder_ohne_kg,Freiwillige Mitglieder ohne Anspruch auf Krankengeld,Fr,359173.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,BKK,freiwillige_mitglieder_ohne_kg,Freiwillige Mitglieder ohne Anspruch auf Krankengeld,Fr,153414.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,IKK,freiwillige_mitglieder_ohne_kg,Freiwillige Mitglieder ohne Anspruch auf Krankengeld,Fr,61521.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,LKK,freiwillige_mitglieder_ohne_kg,Freiwillige Mitglieder ohne Anspruch auf Krankengeld,Fr,6570.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,KBS,freiwillige_mitglieder_ohne_kg,Freiwillige Mitglieder ohne Anspruch auf Krankengeld,Fr,12603.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,vdek,freiwillige_mitglieder_ohne_kg,Freiwillige Mitglieder ohne Anspruch auf Krankengeld,Fr,531094.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,Insgesamt,freiwillige_mitglieder_ohne_kg,Freiwillige Mitglieder ohne Anspruch auf Krankengeld,Zu,2782545.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,AOK,freiwillige_mitglieder_ohne_kg,Freiwillige Mitglieder ohne Anspruch auf Krankengeld,Zu,933020.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,BKK,freiwillige_mitglieder_ohne_kg,Freiwillige Mitglieder ohne Anspruch auf Krankengeld,Zu,366644.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,IKK,freiwillige_mitglieder_ohne_kg,Freiwillige Mitglieder ohne Anspruch auf Krankengeld,Zu,174023.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,LKK,freiwillige_mitglieder_ohne_kg,Freiwillige Mitglieder ohne Anspruch auf Krankengeld,Zu,19597.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,KBS,freiwillige_mitglieder_ohne_kg,Freiwillige Mitglieder ohne Anspruch auf Krankengeld,Zu,33337.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,vdek,freiwillige_mitglieder_ohne_kg,Freiwillige Mitglieder ohne Anspruch auf Krankengeld,Zu,1255924.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,Insgesamt,freiwillige_arbeitnehmer,Freiwillige Arbeitnehmer,Mä,2289358.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,AOK,freiwillige_arbeitnehmer,Freiwillige Arbeitnehmer,Mä,345545.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,BKK,freiwillige_arbeitnehmer,Freiwillige Arbeitnehmer,Mä,562830.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,IKK,freiwillige_arbeitnehmer,Freiwillige Arbeitnehmer,Mä,80721.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,LKK,freiwillige_arbeitnehmer,Freiwillige Arbeitnehmer,Mä,1302.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,KBS,freiwillige_arbeitnehmer,Freiwillige Arbeitnehmer,Mä,14444.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,vdek,freiwillige_arbeitnehmer,Freiwillige Arbeitnehmer,Mä,1284516.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,Insgesamt,freiwillige_arbeitnehmer,Freiwillige Arbeitnehmer,Fr,786736.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,AOK,freiwillige_arbeitnehmer,Freiwillige Arbeitnehmer,Fr,112273.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,BKK,freiwillige_arbeitnehmer,Freiwillige Arbeitnehmer,Fr,167662.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,IKK,freiwillige_arbeitnehmer,Freiwillige Arbeitnehmer,Fr,27241.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,LKK,freiwillige_arbeitnehmer,Freiwillige Arbeitnehmer,Fr,246.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,KBS,freiwillige_arbeitnehmer,Freiwillige Arbeitnehmer,Fr,3702.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,vdek,freiwillige_arbeitnehmer,Freiwillige Arbeitnehmer,Fr,475612.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,Insgesamt,freiwillige_arbeitnehmer,Freiwillige Arbeitnehmer,Zu,3076094.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,AOK,freiwillige_arbeitnehmer,Freiwillige Arbeitnehmer,Zu,457818.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,BKK,freiwillige_arbeitnehmer,Freiwillige Arbeitnehmer,Zu,730492.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,IKK,freiwillige_arbeitnehmer,Freiwillige Arbeitnehmer,Zu,107962.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,LKK,freiwillige_arbeitnehmer,Freiwillige Arbeitnehmer,Zu,1548.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,KBS,freiwillige_arbeitnehmer,Freiwillige Arbeitnehmer,Zu,18146.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,vdek,freiwillige_arbeitnehmer,Freiwillige Arbeitnehmer,Zu,1760128.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,Insgesamt,hauptberuflich_selbstaendige,Hauptberuflich Selbstaendige,Mä,964170.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,AOK,hauptberuflich_selbstaendige,Hauptberuflich Selbstaendige,Mä,309405.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,BKK,hauptberuflich_selbstaendige,Hauptberuflich Selbstaendige,Mä,125324.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,IKK,hauptberuflich_selbstaendige,Hauptberuflich Selbstaendige,Mä,84172.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,LKK,hauptberuflich_selbstaendige,Hauptberuflich Selbstaendige,Mä,8802.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,KBS,hauptberuflich_selbstaendige,Hauptberuflich Selbstaendige,Mä,7266.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,vdek,hauptberuflich_selbstaendige,Hauptberuflich Selbstaendige,Mä,429201.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,Insgesamt,hauptberuflich_selbstaendige,Hauptberuflich Selbstaendige,Fr,532683.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,AOK,hauptberuflich_selbstaendige,Hauptberuflich Selbstaendige,Fr,141057.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,BKK,hauptberuflich_selbstaendige,Hauptberuflich Selbstaendige,Fr,82853.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,IKK,hauptberuflich_selbstaendige,Hauptberuflich Selbstaendige,Fr,36540.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,LKK,hauptberuflich_selbstaendige,Hauptberuflich Selbstaendige,Fr,2786.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,KBS,hauptberuflich_selbstaendige,Hauptberuflich Selbstaendige,Fr,3751.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,vdek,hauptberuflich_selbstaendige,Hauptberuflich Selbstaendige,Fr,265696.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,Insgesamt,hauptberuflich_selbstaendige,Hauptberuflich Selbstaendige,Zu,1496853.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,AOK,hauptberuflich_selbstaendige,Hauptberuflich Selbstaendige,Zu,450462.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,BKK,hauptberuflich_selbstaendige,Hauptberuflich Selbstaendige,Zu,208177.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,IKK,hauptberuflich_selbstaendige,Hauptberuflich Selbstaendige,Zu,120712.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,LKK,hauptberuflich_selbstaendige,Hauptberuflich Selbstaendige,Zu,11588.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,KBS,hauptberuflich_selbstaendige,Hauptberuflich Selbstaendige,Zu,11017.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,vdek,hauptberuflich_selbstaendige,Hauptberuflich Selbstaendige,Zu,694897.0,KM1_Januar_bis_April_2026.pdf,25
+2026,4,2026-04-01,Insgesamt,mitglieder_akv_gesamt,Mitglieder AKV gesamt,Mä,21977874.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,AOK,mitglieder_akv_gesamt,Mitglieder AKV gesamt,Mä,8181440.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,BKK,mitglieder_akv_gesamt,Mitglieder AKV gesamt,Mä,3595125.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,IKK,mitglieder_akv_gesamt,Mitglieder AKV gesamt,Mä,1549055.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,LKK,mitglieder_akv_gesamt,Mitglieder AKV gesamt,Mä,139964.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,KBS,mitglieder_akv_gesamt,Mitglieder AKV gesamt,Mä,237330.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,vdek,mitglieder_akv_gesamt,Mitglieder AKV gesamt,Mä,8274960.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,Insgesamt,mitglieder_akv_gesamt,Mitglieder AKV gesamt,Fr,19541583.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,AOK,mitglieder_akv_gesamt,Mitglieder AKV gesamt,Fr,6873924.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,BKK,mitglieder_akv_gesamt,Mitglieder AKV gesamt,Fr,3139987.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,IKK,mitglieder_akv_gesamt,Mitglieder AKV gesamt,Fr,1233855.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,LKK,mitglieder_akv_gesamt,Mitglieder AKV gesamt,Fr,30155.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,KBS,mitglieder_akv_gesamt,Mitglieder AKV gesamt,Fr,194498.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,vdek,mitglieder_akv_gesamt,Mitglieder AKV gesamt,Fr,8069164.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,Insgesamt,mitglieder_akv_gesamt,Mitglieder AKV gesamt,Zu,41519457.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,AOK,mitglieder_akv_gesamt,Mitglieder AKV gesamt,Zu,15055364.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,BKK,mitglieder_akv_gesamt,Mitglieder AKV gesamt,Zu,6735112.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,IKK,mitglieder_akv_gesamt,Mitglieder AKV gesamt,Zu,2782910.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,LKK,mitglieder_akv_gesamt,Mitglieder AKV gesamt,Zu,170119.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,KBS,mitglieder_akv_gesamt,Mitglieder AKV gesamt,Zu,431828.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,vdek,mitglieder_akv_gesamt,Mitglieder AKV gesamt,Zu,16344124.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,Insgesamt,rentner_kvdr,Rentner / KVdR,Mä,6885164.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,AOK,rentner_kvdr,Rentner / KVdR,Mä,2470289.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,BKK,rentner_kvdr,Rentner / KVdR,Mä,1071106.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,IKK,rentner_kvdr,Rentner / KVdR,Mä,508733.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,LKK,rentner_kvdr,Rentner / KVdR,Mä,0.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,KBS,rentner_kvdr,Rentner / KVdR,Mä,245077.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,vdek,rentner_kvdr,Rentner / KVdR,Mä,2589959.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,Insgesamt,rentner_kvdr,Rentner / KVdR,Fr,10020993.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,AOK,rentner_kvdr,Rentner / KVdR,Fr,3514277.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,BKK,rentner_kvdr,Rentner / KVdR,Fr,1245546.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,IKK,rentner_kvdr,Rentner / KVdR,Fr,581932.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,LKK,rentner_kvdr,Rentner / KVdR,Fr,0.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,KBS,rentner_kvdr,Rentner / KVdR,Fr,290140.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,vdek,rentner_kvdr,Rentner / KVdR,Fr,4389098.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,Insgesamt,rentner_kvdr,Rentner / KVdR,Zu,16906157.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,AOK,rentner_kvdr,Rentner / KVdR,Zu,5984566.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,BKK,rentner_kvdr,Rentner / KVdR,Zu,2316652.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,IKK,rentner_kvdr,Rentner / KVdR,Zu,1090665.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,LKK,rentner_kvdr,Rentner / KVdR,Zu,0.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,KBS,rentner_kvdr,Rentner / KVdR,Zu,535217.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,vdek,rentner_kvdr,Rentner / KVdR,Zu,6979057.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,Insgesamt,mitglieder_gkv_gesamt,Mitglieder GKV gesamt,Mä,28956980.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,AOK,mitglieder_gkv_gesamt,Mitglieder GKV gesamt,Mä,10651729.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,BKK,mitglieder_gkv_gesamt,Mitglieder GKV gesamt,Mä,4666231.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,IKK,mitglieder_gkv_gesamt,Mitglieder GKV gesamt,Mä,2057788.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,LKK,mitglieder_gkv_gesamt,Mitglieder GKV gesamt,Mä,233906.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,KBS,mitglieder_gkv_gesamt,Mitglieder GKV gesamt,Mä,482407.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,vdek,mitglieder_gkv_gesamt,Mitglieder GKV gesamt,Mä,10864919.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,Insgesamt,mitglieder_gkv_gesamt,Mitglieder GKV gesamt,Fr,29680807.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,AOK,mitglieder_gkv_gesamt,Mitglieder GKV gesamt,Fr,10388201.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,BKK,mitglieder_gkv_gesamt,Mitglieder GKV gesamt,Fr,4385533.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,IKK,mitglieder_gkv_gesamt,Mitglieder GKV gesamt,Fr,1815787.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,LKK,mitglieder_gkv_gesamt,Mitglieder GKV gesamt,Fr,148386.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,KBS,mitglieder_gkv_gesamt,Mitglieder GKV gesamt,Fr,484638.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,vdek,mitglieder_gkv_gesamt,Mitglieder GKV gesamt,Fr,12458262.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,Insgesamt,mitglieder_gkv_gesamt,Mitglieder GKV gesamt,Zu,58637787.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,AOK,mitglieder_gkv_gesamt,Mitglieder GKV gesamt,Zu,21039930.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,BKK,mitglieder_gkv_gesamt,Mitglieder GKV gesamt,Zu,9051764.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,IKK,mitglieder_gkv_gesamt,Mitglieder GKV gesamt,Zu,3873575.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,LKK,mitglieder_gkv_gesamt,Mitglieder GKV gesamt,Zu,382292.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,KBS,mitglieder_gkv_gesamt,Mitglieder GKV gesamt,Zu,967045.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,vdek,mitglieder_gkv_gesamt,Mitglieder GKV gesamt,Zu,23323181.0,KM1_Januar_bis_April_2026.pdf,26
+2026,4,2026-04-01,Insgesamt,familienversicherte,Familienversicherte,Mä,7033856.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,AOK,familienversicherte,Familienversicherte,Mä,2826994.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,BKK,familienversicherte,Familienversicherte,Mä,1092751.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,IKK,familienversicherte,Familienversicherte,Mä,428770.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,LKK,familienversicherte,Familienversicherte,Mä,26375.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,KBS,familienversicherte,Familienversicherte,Mä,68292.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,vdek,familienversicherte,Familienversicherte,Mä,2590674.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,Insgesamt,familienversicherte,Familienversicherte,Fr,8731257.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,AOK,familienversicherte,Familienversicherte,Fr,3516314.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,BKK,familienversicherte,Familienversicherte,Fr,1393258.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,IKK,familienversicherte,Familienversicherte,Fr,536376.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,LKK,familienversicherte,Familienversicherte,Fr,58229.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,KBS,familienversicherte,Familienversicherte,Fr,107272.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,vdek,familienversicherte,Familienversicherte,Fr,3119808.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,Insgesamt,familienversicherte,Familienversicherte,Zu,15765113.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,AOK,familienversicherte,Familienversicherte,Zu,6343308.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,BKK,familienversicherte,Familienversicherte,Zu,2486009.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,IKK,familienversicherte,Familienversicherte,Zu,965146.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,LKK,familienversicherte,Familienversicherte,Zu,84604.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,KBS,familienversicherte,Familienversicherte,Zu,175564.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,vdek,familienversicherte,Familienversicherte,Zu,5710482.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,Insgesamt,versicherte_insgesamt,Versicherte insgesamt,Mä,35990836.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,AOK,versicherte_insgesamt,Versicherte insgesamt,Mä,13478723.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,BKK,versicherte_insgesamt,Versicherte insgesamt,Mä,5758982.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,IKK,versicherte_insgesamt,Versicherte insgesamt,Mä,2486558.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,LKK,versicherte_insgesamt,Versicherte insgesamt,Mä,260281.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,KBS,versicherte_insgesamt,Versicherte insgesamt,Mä,550699.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,vdek,versicherte_insgesamt,Versicherte insgesamt,Mä,13455593.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,Insgesamt,versicherte_insgesamt,Versicherte insgesamt,Fr,38412064.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,AOK,versicherte_insgesamt,Versicherte insgesamt,Fr,13904515.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,BKK,versicherte_insgesamt,Versicherte insgesamt,Fr,5778791.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,IKK,versicherte_insgesamt,Versicherte insgesamt,Fr,2352163.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,LKK,versicherte_insgesamt,Versicherte insgesamt,Fr,206615.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,KBS,versicherte_insgesamt,Versicherte insgesamt,Fr,591910.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,vdek,versicherte_insgesamt,Versicherte insgesamt,Fr,15578070.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,Insgesamt,versicherte_insgesamt,Versicherte insgesamt,Zu,74402900.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,AOK,versicherte_insgesamt,Versicherte insgesamt,Zu,27383238.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,BKK,versicherte_insgesamt,Versicherte insgesamt,Zu,11537773.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,IKK,versicherte_insgesamt,Versicherte insgesamt,Zu,4838721.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,LKK,versicherte_insgesamt,Versicherte insgesamt,Zu,466896.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,KBS,versicherte_insgesamt,Versicherte insgesamt,Zu,1142609.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,vdek,versicherte_insgesamt,Versicherte insgesamt,Zu,29033663.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,Insgesamt,au_krankengeldberechtigte,Arbeitsunfaehige krankengeldberechtigte Mitglieder,Mä,1062368.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,AOK,au_krankengeldberechtigte,Arbeitsunfaehige krankengeldberechtigte Mitglieder,Mä,410711.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,BKK,au_krankengeldberechtigte,Arbeitsunfaehige krankengeldberechtigte Mitglieder,Mä,193312.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,IKK,au_krankengeldberechtigte,Arbeitsunfaehige krankengeldberechtigte Mitglieder,Mä,100899.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,LKK,au_krankengeldberechtigte,Arbeitsunfaehige krankengeldberechtigte Mitglieder,Mä,207.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,KBS,au_krankengeldberechtigte,Arbeitsunfaehige krankengeldberechtigte Mitglieder,Mä,14494.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,vdek,au_krankengeldberechtigte,Arbeitsunfaehige krankengeldberechtigte Mitglieder,Mä,342745.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,Insgesamt,au_krankengeldberechtigte,Arbeitsunfaehige krankengeldberechtigte Mitglieder,Fr,1058323.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,AOK,au_krankengeldberechtigte,Arbeitsunfaehige krankengeldberechtigte Mitglieder,Fr,367262.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,BKK,au_krankengeldberechtigte,Arbeitsunfaehige krankengeldberechtigte Mitglieder,Fr,186703.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,IKK,au_krankengeldberechtigte,Arbeitsunfaehige krankengeldberechtigte Mitglieder,Fr,82027.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,LKK,au_krankengeldberechtigte,Arbeitsunfaehige krankengeldberechtigte Mitglieder,Fr,161.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,KBS,au_krankengeldberechtigte,Arbeitsunfaehige krankengeldberechtigte Mitglieder,Fr,12813.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,vdek,au_krankengeldberechtigte,Arbeitsunfaehige krankengeldberechtigte Mitglieder,Fr,409357.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,Insgesamt,au_krankengeldberechtigte,Arbeitsunfaehige krankengeldberechtigte Mitglieder,Zu,2120691.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,AOK,au_krankengeldberechtigte,Arbeitsunfaehige krankengeldberechtigte Mitglieder,Zu,777973.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,BKK,au_krankengeldberechtigte,Arbeitsunfaehige krankengeldberechtigte Mitglieder,Zu,380015.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,IKK,au_krankengeldberechtigte,Arbeitsunfaehige krankengeldberechtigte Mitglieder,Zu,182926.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,LKK,au_krankengeldberechtigte,Arbeitsunfaehige krankengeldberechtigte Mitglieder,Zu,368.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,KBS,au_krankengeldberechtigte,Arbeitsunfaehige krankengeldberechtigte Mitglieder,Zu,27307.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,vdek,au_krankengeldberechtigte,Arbeitsunfaehige krankengeldberechtigte Mitglieder,Zu,752102.0,KM1_Januar_bis_April_2026.pdf,27
+2026,4,2026-04-01,Insgesamt,krankenstand_prozent,Krankenstand in Prozent,Mä,5.98,KM1_Januar_bis_April_2026.pdf,28
+2026,4,2026-04-01,AOK,krankenstand_prozent,Krankenstand in Prozent,Mä,6.38,KM1_Januar_bis_April_2026.pdf,28
+2026,4,2026-04-01,BKK,krankenstand_prozent,Krankenstand in Prozent,Mä,6.23,KM1_Januar_bis_April_2026.pdf,28
+2026,4,2026-04-01,IKK,krankenstand_prozent,Krankenstand in Prozent,Mä,7.89,KM1_Januar_bis_April_2026.pdf,28
+2026,4,2026-04-01,LKK,krankenstand_prozent,Krankenstand in Prozent,Mä,1.87,KM1_Januar_bis_April_2026.pdf,28
+2026,4,2026-04-01,KBS,krankenstand_prozent,Krankenstand in Prozent,Mä,7.85,KM1_Januar_bis_April_2026.pdf,28
+2026,4,2026-04-01,vdek,krankenstand_prozent,Krankenstand in Prozent,Mä,5.11,KM1_Januar_bis_April_2026.pdf,28
+2026,4,2026-04-01,Insgesamt,krankenstand_prozent,Krankenstand in Prozent,Fr,6.57,KM1_Januar_bis_April_2026.pdf,28
+2026,4,2026-04-01,AOK,krankenstand_prozent,Krankenstand in Prozent,Fr,6.84,KM1_Januar_bis_April_2026.pdf,28
+2026,4,2026-04-01,BKK,krankenstand_prozent,Krankenstand in Prozent,Fr,6.79,KM1_Januar_bis_April_2026.pdf,28
+2026,4,2026-04-01,IKK,krankenstand_prozent,Krankenstand in Prozent,Fr,7.88,KM1_Januar_bis_April_2026.pdf,28
+2026,4,2026-04-01,LKK,krankenstand_prozent,Krankenstand in Prozent,Fr,2.42,KM1_Januar_bis_April_2026.pdf,28
+2026,4,2026-04-01,KBS,krankenstand_prozent,Krankenstand in Prozent,Fr,8.37,KM1_Januar_bis_April_2026.pdf,28
+2026,4,2026-04-01,vdek,krankenstand_prozent,Krankenstand in Prozent,Fr,6.05,KM1_Januar_bis_April_2026.pdf,28
+2026,4,2026-04-01,Insgesamt,krankenstand_prozent,Krankenstand in Prozent,Zu,6.26,KM1_Januar_bis_April_2026.pdf,28
+2026,4,2026-04-01,AOK,krankenstand_prozent,Krankenstand in Prozent,Zu,6.59,KM1_Januar_bis_April_2026.pdf,28
+2026,4,2026-04-01,BKK,krankenstand_prozent,Krankenstand in Prozent,Zu,6.49,KM1_Januar_bis_April_2026.pdf,28
+2026,4,2026-04-01,IKK,krankenstand_prozent,Krankenstand in Prozent,Zu,7.88,KM1_Januar_bis_April_2026.pdf,28
+2026,4,2026-04-01,LKK,krankenstand_prozent,Krankenstand in Prozent,Zu,2.08,KM1_Januar_bis_April_2026.pdf,28
+2026,4,2026-04-01,KBS,krankenstand_prozent,Krankenstand in Prozent,Zu,8.09,KM1_Januar_bis_April_2026.pdf,28
+2026,4,2026-04-01,vdek,krankenstand_prozent,Krankenstand in Prozent,Zu,5.58,KM1_Januar_bis_April_2026.pdf,28

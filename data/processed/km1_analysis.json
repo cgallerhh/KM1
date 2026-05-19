@@ -1,0 +1,381 @@
+{
+  "metadata": {
+    "quell_url": "https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Statistiken/GKV/Mitglieder_Versicherte/KM1_Januar_bis_April_2026.pdf",
+    "dateiname": "KM1_Januar_bis_April_2026.pdf",
+    "download_datum": "2026-05-19T19:35:26",
+    "berichtszeitraum": "Januar bis April 2026",
+    "stand_laut_deckblatt": null,
+    "seitenzahl": 30,
+    "hash_sha256": "3aa0ee6e5a6adb7e19515263e1f6937126107047015069e1af080496745500ed",
+    "erkannter_neuester_monat": "April",
+    "jahr": 2026,
+    "monat": 4,
+    "lokaler_pfad": "data/raw/KM1_Januar_bis_April_2026.pdf"
+  },
+  "has_previous_period": false,
+  "period": {
+    "year": 2026,
+    "month": 4
+  },
+  "previous_period": {
+    "year": 2026,
+    "month": 3
+  },
+  "kennzahlen": {
+    "versicherte_insgesamt": {
+      "name": "Versicherte insgesamt",
+      "gesamtwert": 74402900.0,
+      "gesamtwert_formatiert": "74.402.900",
+      "staerkste_kassenart": {
+        "kassenart": "vdek",
+        "wert": 29033663.0
+      },
+      "schwaechste_kassenart": {
+        "kassenart": "LKK",
+        "wert": 466896.0
+      },
+      "veraenderung_vormonat": {
+        "abs": null,
+        "pct": null
+      },
+      "ranking": [
+        {
+          "kassenart": "vdek",
+          "wert": 29033663.0
+        },
+        {
+          "kassenart": "AOK",
+          "wert": 27383238.0
+        },
+        {
+          "kassenart": "BKK",
+          "wert": 11537773.0
+        },
+        {
+          "kassenart": "IKK",
+          "wert": 4838721.0
+        },
+        {
+          "kassenart": "KBS",
+          "wert": 1142609.0
+        },
+        {
+          "kassenart": "LKK",
+          "wert": 466896.0
+        }
+      ]
+    },
+    "mitglieder_gkv_gesamt": {
+      "name": "Mitglieder GKV gesamt",
+      "gesamtwert": 58637787.0,
+      "gesamtwert_formatiert": "58.637.787",
+      "staerkste_kassenart": {
+        "kassenart": "vdek",
+        "wert": 23323181.0
+      },
+      "schwaechste_kassenart": {
+        "kassenart": "LKK",
+        "wert": 382292.0
+      },
+      "veraenderung_vormonat": {
+        "abs": null,
+        "pct": null
+      },
+      "ranking": [
+        {
+          "kassenart": "vdek",
+          "wert": 23323181.0
+        },
+        {
+          "kassenart": "AOK",
+          "wert": 21039930.0
+        },
+        {
+          "kassenart": "BKK",
+          "wert": 9051764.0
+        },
+        {
+          "kassenart": "IKK",
+          "wert": 3873575.0
+        },
+        {
+          "kassenart": "KBS",
+          "wert": 967045.0
+        },
+        {
+          "kassenart": "LKK",
+          "wert": 382292.0
+        }
+      ]
+    },
+    "pflichtmitglieder_akv": {
+      "name": "Pflichtmitglieder AKV gesamt",
+      "gesamtwert": 35328262.0,
+      "gesamtwert_formatiert": "35.328.262",
+      "staerkste_kassenart": {
+        "kassenart": "AOK",
+        "wert": 13575146.0
+      },
+      "schwaechste_kassenart": {
+        "kassenart": "LKK",
+        "wert": 149855.0
+      },
+      "veraenderung_vormonat": {
+        "abs": null,
+        "pct": null
+      },
+      "ranking": [
+        {
+          "kassenart": "AOK",
+          "wert": 13575146.0
+        },
+        {
+          "kassenart": "vdek",
+          "wert": 13161452.0
+        },
+        {
+          "kassenart": "BKK",
+          "wert": 5593961.0
+        },
+        {
+          "kassenart": "IKK",
+          "wert": 2469146.0
+        },
+        {
+          "kassenart": "KBS",
+          "wert": 378702.0
+        },
+        {
+          "kassenart": "LKK",
+          "wert": 149855.0
+        }
+      ]
+    },
+    "freiwillige_mitglieder_mit_kg": {
+      "name": "Freiwillige Mitglieder mit Anspruch auf Krankengeld",
+      "gesamtwert": 3379078.0,
+      "gesamtwert_formatiert": "3.379.078",
+      "staerkste_kassenart": {
+        "kassenart": "vdek",
+        "wert": 1910201.0
+      },
+      "schwaechste_kassenart": {
+        "kassenart": "LKK",
+        "wert": 659.0
+      },
+      "veraenderung_vormonat": {
+        "abs": null,
+        "pct": null
+      },
+      "ranking": [
+        {
+          "kassenart": "vdek",
+          "wert": 1910201.0
+        },
+        {
+          "kassenart": "BKK",
+          "wert": 767197.0
+        },
+        {
+          "kassenart": "AOK",
+          "wert": 542525.0
+        },
+        {
+          "kassenart": "IKK",
+          "wert": 138885.0
+        },
+        {
+          "kassenart": "KBS",
+          "wert": 19611.0
+        },
+        {
+          "kassenart": "LKK",
+          "wert": 659.0
+        }
+      ]
+    },
+    "freiwillige_mitglieder_ohne_kg": {
+      "name": "Freiwillige Mitglieder ohne Anspruch auf Krankengeld",
+      "gesamtwert": 2782545.0,
+      "gesamtwert_formatiert": "2.782.545",
+      "staerkste_kassenart": {
+        "kassenart": "vdek",
+        "wert": 1255924.0
+      },
+      "schwaechste_kassenart": {
+        "kassenart": "LKK",
+        "wert": 19597.0
+      },
+      "veraenderung_vormonat": {
+        "abs": null,
+        "pct": null
+      },
+      "ranking": [
+        {
+          "kassenart": "vdek",
+          "wert": 1255924.0
+        },
+        {
+          "kassenart": "AOK",
+          "wert": 933020.0
+        },
+        {
+          "kassenart": "BKK",
+          "wert": 366644.0
+        },
+        {
+          "kassenart": "IKK",
+          "wert": 174023.0
+        },
+        {
+          "kassenart": "KBS",
+          "wert": 33337.0
+        },
+        {
+          "kassenart": "LKK",
+          "wert": 19597.0
+        }
+      ]
+    },
+    "rentner_kvdr": {
+      "name": "Rentner / KVdR",
+      "gesamtwert": 16906157.0,
+      "gesamtwert_formatiert": "16.906.157",
+      "staerkste_kassenart": {
+        "kassenart": "vdek",
+        "wert": 6979057.0
+      },
+      "schwaechste_kassenart": {
+        "kassenart": "LKK",
+        "wert": 0.0
+      },
+      "veraenderung_vormonat": {
+        "abs": null,
+        "pct": null
+      },
+      "ranking": [
+        {
+          "kassenart": "vdek",
+          "wert": 6979057.0
+        },
+        {
+          "kassenart": "AOK",
+          "wert": 5984566.0
+        },
+        {
+          "kassenart": "BKK",
+          "wert": 2316652.0
+        },
+        {
+          "kassenart": "IKK",
+          "wert": 1090665.0
+        },
+        {
+          "kassenart": "KBS",
+          "wert": 535217.0
+        },
+        {
+          "kassenart": "LKK",
+          "wert": 0.0
+        }
+      ]
+    },
+    "familienversicherte": {
+      "name": "Familienversicherte",
+      "gesamtwert": 15765113.0,
+      "gesamtwert_formatiert": "15.765.113",
+      "staerkste_kassenart": {
+        "kassenart": "AOK",
+        "wert": 6343308.0
+      },
+      "schwaechste_kassenart": {
+        "kassenart": "LKK",
+        "wert": 84604.0
+      },
+      "veraenderung_vormonat": {
+        "abs": null,
+        "pct": null
+      },
+      "ranking": [
+        {
+          "kassenart": "AOK",
+          "wert": 6343308.0
+        },
+        {
+          "kassenart": "vdek",
+          "wert": 5710482.0
+        },
+        {
+          "kassenart": "BKK",
+          "wert": 2486009.0
+        },
+        {
+          "kassenart": "IKK",
+          "wert": 965146.0
+        },
+        {
+          "kassenart": "KBS",
+          "wert": 175564.0
+        },
+        {
+          "kassenart": "LKK",
+          "wert": 84604.0
+        }
+      ]
+    },
+    "krankenstand_prozent": {
+      "name": "Krankenstand in Prozent",
+      "gesamtwert": 6.26,
+      "gesamtwert_formatiert": "6,26 %",
+      "staerkste_kassenart": {
+        "kassenart": "KBS",
+        "wert": 8.09
+      },
+      "schwaechste_kassenart": {
+        "kassenart": "LKK",
+        "wert": 2.08
+      },
+      "veraenderung_vormonat": {
+        "abs": null,
+        "pct": null
+      },
+      "ranking": [
+        {
+          "kassenart": "KBS",
+          "wert": 8.09
+        },
+        {
+          "kassenart": "IKK",
+          "wert": 7.88
+        },
+        {
+          "kassenart": "AOK",
+          "wert": 6.59
+        },
+        {
+          "kassenart": "BKK",
+          "wert": 6.49
+        },
+        {
+          "kassenart": "vdek",
+          "wert": 5.58
+        },
+        {
+          "kassenart": "LKK",
+          "wert": 2.08
+        }
+      ]
+    }
+  },
+  "anteile_versicherte": {
+    "Insgesamt": 100.0,
+    "AOK": 36.80399285511721,
+    "BKK": 15.507154963045794,
+    "IKK": 6.503403765175819,
+    "LKK": 0.6275239271587532,
+    "KBS": 1.5357049254800552,
+    "vdek": 39.02221956402237
+  },
+  "row_count": 387,
+  "coverage_note": "Trendvergleich nur verfuegbar, wenn normalisierte Vorperioden im selben CSV-Bestand vorhanden sind."
+}
