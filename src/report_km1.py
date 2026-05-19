@@ -159,9 +159,10 @@ def build_report() -> Path:
     lines: list[str] = []
     lines.append(f"# KM1-Auswertung {month_label} {year}\n")
     lines.append("## 1. Kurzbewertung für Account Management und Business Development\n")
+    source_unit = "Tabellenblätter" if str(metadata["dateiname"]).lower().endswith(".xlsx") else "Seiten"
     lines.extend(
         [
-            f"- Datenbasis: {metadata['berichtszeitraum']} aus {metadata['dateiname']} ({metadata['seitenzahl']} Seiten).",
+            f"- Datenbasis: {metadata['berichtszeitraum']} aus {metadata['dateiname']} ({metadata['seitenzahl']} {source_unit}).",
             "- Die KM1 liefert in dieser Auswertung belastbare Signale auf Ebene der Kassenarten, nicht auf Ebene einzelner Krankenkassen.",
             "- Größere Kassenarten mit hohem Versichertenbestand sind besonders relevant für skalierbare IT-Angebote in Service, BI, DMS und Automatisierung.",
             "- Krankenstandswerte sind ein konkreter Anlass für Gespräche zu AU, Krankengeld, Arbeitgeberkommunikation und Fallsteuerung.",

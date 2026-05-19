@@ -5,6 +5,7 @@ import sys
 from pathlib import Path
 
 import pdfplumber
+from openpyxl import load_workbook
 
 from km1_common import PROCESSED_DIR, ROOT, ensure_dirs, read_json, write_json
 
@@ -16,7 +17,43 @@ def latest_pdf_from_metadata() -> Path:
     return ROOT / metadata["lokaler_pfad"]
 
 
-def extract(pdf_path: Path) -> tuple[list[dict], list[dict]]:
+def extract_xlsx(xlsx_path: Path) -> tuple[list[dict], list[dict]]:
+    tables_out: list[dict] = []
+    rows_out: list[dict] = []
+    workbook = load_workbook(xlsx_path, read_only=True, data_only=True)
+    for sheet_index, sheet in enumerate(workbook.worksheets, start=1):
+        sheet_rows: list[list[str]] = []
+        text_lines: list[str] = []
+        for row_index, row in enumerate(sheet.iter_rows(values_only=True), start=1):
+            values = ["" if cell is None else str(cell).strip() for cell in row]
+            while values and values[-1] == "":
+                values.pop()
+            if not values:
+                continue
+            sheet_rows.append(values)
+            text_lines.append(" ".join(values))
+            rows_out.append(
+                {
+                    "quelle_seite": sheet_index,
+                    "tabelle": 1,
+                    "zeile": row_index,
+                    "werte": values,
+                }
+            )
+        tables_out.append(
+            {
+                "page": sheet_index,
+                "sheet_name": sheet.title,
+                "text": "\n".join(text_lines),
+                "tables": [sheet_rows],
+                "source_type": "xlsx",
+            }
+        )
+    workbook.close()
+    return tables_out, rows_out
+
+
+def extract_pdf(pdf_path: Path) -> tuple[list[dict], list[dict]]:
     tables_out: list[dict] = []
     rows_out: list[dict] = []
     with pdfplumber.open(pdf_path) as pdf:
@@ -66,8 +103,11 @@ def main() -> int:
     ensure_dirs()
     pdf_path = latest_pdf_from_metadata()
     if not pdf_path.exists():
-        raise RuntimeError(f"PDF nicht gefunden: {pdf_path}")
-    tables, rows = extract(pdf_path)
+        raise RuntimeError(f"Quelldatei nicht gefunden: {pdf_path}")
+    if pdf_path.suffix.lower() == ".xlsx":
+        tables, rows = extract_xlsx(pdf_path)
+    else:
+        tables, rows = extract_pdf(pdf_path)
     write_json(PROCESSED_DIR / "km1_raw_tables.json", tables)
     write_csv(rows, PROCESSED_DIR / "km1_raw_tables.csv")
     print(f"OK: {len(rows)} Tabellenzeilen aus {pdf_path.name} extrahiert.")

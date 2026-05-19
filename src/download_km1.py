@@ -8,6 +8,7 @@ from urllib.parse import quote
 
 import requests
 from pypdf import PdfReader
+from openpyxl import load_workbook
 
 from km1_common import (
     BASE_URL,
@@ -45,7 +46,8 @@ def find_latest(today: date | None = None) -> tuple[Period, str, str]:
         for filename, _ in candidate_urls(period):
             url = encoded_url(filename)
             if probe_url(url):
-                canonical = f"KM1_Januar_bis_{period.month_name}_{period.year}.pdf"
+                extension = Path(filename).suffix.lstrip(".")
+                canonical = f"KM1_Januar_bis_{period.month_name}_{period.year}.{extension}"
                 return period, canonical, url
     raise RuntimeError("Keine KM1-Datei in den letzten 6 Rueckwaertsversuchen gefunden.")
 
@@ -53,8 +55,11 @@ def find_latest(today: date | None = None) -> tuple[Period, str, str]:
 def download_file(url: str, output_path: Path) -> None:
     response = requests.get(url, timeout=90)
     response.raise_for_status()
-    if not response.content.startswith(b"%PDF"):
+    suffix = output_path.suffix.lower()
+    if suffix == ".pdf" and not response.content.startswith(b"%PDF"):
         raise RuntimeError(f"Download ist keine PDF-Datei: {url}")
+    if suffix == ".xlsx" and not response.content.startswith(b"PK"):
+        raise RuntimeError(f"Download ist keine XLSX-Datei: {url}")
     output_path.write_bytes(response.content)
 
 
@@ -68,10 +73,15 @@ def main() -> int:
 
     if args.year and args.month:
         period = Period(args.year, args.month)
-        filename = f"KM1_Januar_bis_{period.month_name}_{period.year}.pdf"
-        url = encoded_url(filename)
-        if not probe_url(url):
-            raise SystemExit(f"Datei nicht gefunden: {url}")
+        found = None
+        for filename_candidate, _ in candidate_urls(period):
+            url_candidate = encoded_url(filename_candidate)
+            if probe_url(url_candidate):
+                found = (filename_candidate, url_candidate)
+                break
+        if not found:
+            raise SystemExit(f"Datei nicht gefunden fuer {period.label}")
+        filename, url = found
     else:
         period, filename, url = find_latest()
 
@@ -79,20 +89,36 @@ def main() -> int:
     if not output_path.exists():
         download_file(url, output_path)
 
-    reader = PdfReader(str(output_path))
-    first_page_text = reader.pages[0].extract_text() or ""
     stand = None
-    for line in first_page_text.splitlines():
-        if line.strip().lower().startswith("stand:"):
-            stand = line.strip().split(":", 1)[1].strip()
-            break
+    if output_path.suffix.lower() == ".pdf":
+        reader = PdfReader(str(output_path))
+        seitenzahl = len(reader.pages)
+        first_page_text = reader.pages[0].extract_text() or ""
+        for line in first_page_text.splitlines():
+            if line.strip().lower().startswith("stand:"):
+                stand = line.strip().split(":", 1)[1].strip()
+                break
+    else:
+        workbook = load_workbook(output_path, read_only=True, data_only=True)
+        seitenzahl = len(workbook.sheetnames)
+        for sheet in workbook.worksheets:
+            for row in sheet.iter_rows(min_row=1, max_row=12, values_only=True):
+                for value in row:
+                    if isinstance(value, str) and value.strip().lower().startswith("stand:"):
+                        stand = value.strip().split(":", 1)[1].strip()
+                        break
+                if stand:
+                    break
+            if stand:
+                break
+        workbook.close()
     metadata = {
         "quell_url": url,
         "dateiname": filename,
         "download_datum": now_iso(),
         "berichtszeitraum": f"Januar bis {period.month_name} {period.year}",
         "stand_laut_deckblatt": stand,
-        "seitenzahl": len(reader.pages),
+        "seitenzahl": seitenzahl,
         "hash_sha256": sha256_file(output_path),
         "erkannter_neuester_monat": period.month_name,
         "jahr": period.year,

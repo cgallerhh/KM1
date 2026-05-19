@@ -1,13 +1,13 @@
 {
-  "quell_url": "https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Statistiken/GKV/Mitglieder_Versicherte/KM1_Januar_bis_April_2026.pdf",
-  "dateiname": "KM1_Januar_bis_April_2026.pdf",
-  "download_datum": "2026-05-19T19:35:26",
+  "quell_url": "https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Statistiken/GKV/Mitglieder_Versicherte/KM1_Januar_bis_April_2026.xlsx",
+  "dateiname": "KM1_Januar_bis_April_2026.xlsx",
+  "download_datum": "2026-05-19T19:40:02",
   "berichtszeitraum": "Januar bis April 2026",
   "stand_laut_deckblatt": null,
-  "seitenzahl": 30,
-  "hash_sha256": "3aa0ee6e5a6adb7e19515263e1f6937126107047015069e1af080496745500ed",
+  "seitenzahl": 6,
+  "hash_sha256": "c017df822b00a1f2faef97700a18a7b94b6103253d4d055aba8fa926bfffa3bf",
   "erkannter_neuester_monat": "April",
   "jahr": 2026,
   "monat": 4,
-  "lokaler_pfad": "data/raw/KM1_Januar_bis_April_2026.pdf"
+  "lokaler_pfad": "data/raw/KM1_Januar_bis_April_2026.xlsx"
 }

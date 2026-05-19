@@ -2,7 +2,7 @@
 
 ## 1. Kurzbewertung für Account Management und Business Development
 
-- Datenbasis: Januar bis April 2026 aus KM1_Januar_bis_April_2026.pdf (30 Seiten).
+- Datenbasis: Januar bis April 2026 aus KM1_Januar_bis_April_2026.xlsx (6 Tabellenblätter).
 - Die KM1 liefert in dieser Auswertung belastbare Signale auf Ebene der Kassenarten, nicht auf Ebene einzelner Krankenkassen.
 - Größere Kassenarten mit hohem Versichertenbestand sind besonders relevant für skalierbare IT-Angebote in Service, BI, DMS und Automatisierung.
 - Krankenstandswerte sind ein konkreter Anlass für Gespräche zu AU, Krankengeld, Arbeitgeberkommunikation und Fallsteuerung.
@@ -15,14 +15,14 @@
 
 | Kennzahl | Gesamtwert | stärkste Kassenart | schwächste Kassenart | Veränderung ggü. Vormonat | Bewertung |
 |---|---:|---|---|---:|---|
-| Versicherte insgesamt | 74.402.900 | vdek (29.033.663) | LKK (466.896) | n/a | Statuswert; echter Trendvergleich entsteht nach weiteren Monatslaeufen. |
-| Mitglieder GKV gesamt | 58.637.787 | vdek (23.323.181) | LKK (382.292) | n/a | Statuswert; echter Trendvergleich entsteht nach weiteren Monatslaeufen. |
-| Pflichtmitglieder AKV gesamt | 35.328.262 | AOK (13.575.146) | LKK (149.855) | n/a | Statuswert; echter Trendvergleich entsteht nach weiteren Monatslaeufen. |
-| Freiwillige Mitglieder mit Anspruch auf Krankengeld | 3.379.078 | vdek (1.910.201) | LKK (659) | n/a | Wettbewerbs- und Beitragsnahe Zielgruppe mit Beratungs- und Bindungsrelevanz. |
-| Freiwillige Mitglieder ohne Anspruch auf Krankengeld | 2.782.545 | vdek (1.255.924) | LKK (19.597) | n/a | Wettbewerbs- und Beitragsnahe Zielgruppe mit Beratungs- und Bindungsrelevanz. |
-| Rentner / KVdR | 16.906.157 | vdek (6.979.057) | LKK (0) | n/a | Demografie- und Leistungsdruck; relevant fuer Versorgung, Pflege- und Kommunikationsprozesse. |
-| Familienversicherte | 15.765.113 | AOK (6.343.308) | LKK (84.604) | n/a | Relevant fuer Service-, Stammdaten- und Familienversicherungsprozesse. |
-| Krankenstand in Prozent | 6,26 % | KBS (8,09 %) | LKK (2,08 %) | n/a | Hoher Krankenstand ist ein direkter Trigger fuer AU-, Krankengeld- und Fallsteuerungsprozesse. |
+| Versicherte insgesamt | 74.402.900 | vdek (29.033.663) | LKK (466.896) | -92.344 (-0,12 %) | Trendwert fuer Markt- und Wettbewerbsdynamik. |
+| Mitglieder GKV gesamt | 58.637.787 | vdek (23.323.181) | LKK (382.292) | -76.813 (-0,13 %) | Trendwert fuer Markt- und Wettbewerbsdynamik. |
+| Pflichtmitglieder AKV gesamt | 35.328.262 | AOK (13.575.146) | LKK (149.855) | -64.192 (-0,18 %) | Trendwert fuer Markt- und Wettbewerbsdynamik. |
+| Freiwillige Mitglieder mit Anspruch auf Krankengeld | 3.379.078 | vdek (1.910.201) | LKK (659) | -17.855 (-0,53 %) | Wettbewerbs- und Beitragsnahe Zielgruppe mit Beratungs- und Bindungsrelevanz. |
+| Freiwillige Mitglieder ohne Anspruch auf Krankengeld | 2.782.545 | vdek (1.255.924) | LKK (19.597) | 1.710 (0,06 %) | Wettbewerbs- und Beitragsnahe Zielgruppe mit Beratungs- und Bindungsrelevanz. |
+| Rentner / KVdR | 16.906.157 | vdek (6.979.057) | LKK (0) | 4.730 (0,03 %) | Demografie- und Leistungsdruck; relevant fuer Versorgung, Pflege- und Kommunikationsprozesse. |
+| Familienversicherte | 15.765.113 | AOK (6.343.308) | LKK (84.604) | -15.531 (-0,10 %) | Relevant fuer Service-, Stammdaten- und Familienversicherungsprozesse. |
+| Krankenstand in Prozent | 6,26 % | KBS (8,09 %) | LKK (2,08 %) | 0,86 % (15,93 %) | Hoher Krankenstand ist ein direkter Trigger fuer AU-, Krankengeld- und Fallsteuerungsprozesse. |
 
 ## 3. Größte und kleinste Marktsegmente
 
@@ -92,7 +92,7 @@
 
 ## 4. Veränderungen und mögliche Ursachen
 
-- Direkt beobachtete Veränderung: Keine Vorperiode im Projektbestand gefunden. Dieser Bericht ist daher ein Statusbild.
+- Direkt beobachtete Veränderung: Vorperiodenwerte wurden gefunden; die Deltas stehen in Abschnitt 2.
 - Plausible Interpretation: Hohe Bestände bei Rentnern, Familienversicherten oder AU-Fällen deuten auf Prozesslast in Versorgung, Leistung, Kommunikation und Fallbearbeitung hin.
 - Noch zu validierende Hypothese: Beitragssatz- und Wettbewerbsdynamik, regionale Arbeitgeberstruktur, Demografie und mögliche Fusionen müssen mit externen Quellen geprüft werden.
 
@@ -100,7 +100,7 @@
 
 ### AOK
 
-- Relevante Kennzahlen: Versicherte 27.383.238, Mitglieder 21.039.930, Rentner/KVdR 5.984.566, Familienversicherte 6.343.308, Krankenstand 6,59 %.
+- Relevante Kennzahlen: Versicherte 27.342.123, Mitglieder 21.057.554, Rentner/KVdR 5.997.296, Familienversicherte 6.284.569, Krankenstand 4,66 %.
 - Auffaellige Entwicklung: Ohne Vorperiode aktuell als Statusbild zu lesen; nach naechstem Lauf werden Delta-Werte automatisch ausgewiesen.
 - Wahrscheinliche fachliche Herausforderung: Segmentgerechte Bearbeitung von Mitgliedern, Rentnern, Familienversicherten und AU-Faellen.
 - Wahrscheinlicher IT-Bedarf: BI, Prozessmonitoring, Inputmanagement, Automatisierung in Service- und Leistungsprozessen.
@@ -108,7 +108,7 @@
 
 ### BKK
 
-- Relevante Kennzahlen: Versicherte 11.537.773, Mitglieder 9.051.764, Rentner/KVdR 2.316.652, Familienversicherte 2.486.009, Krankenstand 6,49 %.
+- Relevante Kennzahlen: Versicherte 11.486.674, Mitglieder 9.022.891, Rentner/KVdR 2.307.495, Familienversicherte 2.463.783, Krankenstand 4,50 %.
 - Auffaellige Entwicklung: Ohne Vorperiode aktuell als Statusbild zu lesen; nach naechstem Lauf werden Delta-Werte automatisch ausgewiesen.
 - Wahrscheinliche fachliche Herausforderung: Segmentgerechte Bearbeitung von Mitgliedern, Rentnern, Familienversicherten und AU-Faellen.
 - Wahrscheinlicher IT-Bedarf: BI, Prozessmonitoring, Inputmanagement, Automatisierung in Service- und Leistungsprozessen.
@@ -116,7 +116,7 @@
 
 ### IKK
 
-- Relevante Kennzahlen: Versicherte 4.838.721, Mitglieder 3.873.575, Rentner/KVdR 1.090.665, Familienversicherte 965.146, Krankenstand 7,88 %.
+- Relevante Kennzahlen: Versicherte 4.849.232, Mitglieder 3.884.109, Rentner/KVdR 1.088.561, Familienversicherte 965.123, Krankenstand 5,73 %.
 - Auffaellige Entwicklung: Ohne Vorperiode aktuell als Statusbild zu lesen; nach naechstem Lauf werden Delta-Werte automatisch ausgewiesen.
 - Wahrscheinliche fachliche Herausforderung: Segmentgerechte Bearbeitung von Mitgliedern, Rentnern, Familienversicherten und AU-Faellen.
 - Wahrscheinlicher IT-Bedarf: BI, Prozessmonitoring, Inputmanagement, Automatisierung in Service- und Leistungsprozessen.
@@ -124,7 +124,7 @@
 
 ### LKK
 
-- Relevante Kennzahlen: Versicherte 466.896, Mitglieder 382.292, Rentner/KVdR 0, Familienversicherte 84.604, Krankenstand 2,08 %.
+- Relevante Kennzahlen: Versicherte 471.785, Mitglieder 386.449, Rentner/KVdR 0, Familienversicherte 85.336, Krankenstand 1,82 %.
 - Auffaellige Entwicklung: Ohne Vorperiode aktuell als Statusbild zu lesen; nach naechstem Lauf werden Delta-Werte automatisch ausgewiesen.
 - Wahrscheinliche fachliche Herausforderung: Segmentgerechte Bearbeitung von Mitgliedern, Rentnern, Familienversicherten und AU-Faellen.
 - Wahrscheinlicher IT-Bedarf: BI, Prozessmonitoring, Inputmanagement, Automatisierung in Service- und Leistungsprozessen.
@@ -132,7 +132,7 @@
 
 ### KBS
 
-- Relevante Kennzahlen: Versicherte 1.142.609, Mitglieder 967.045, Rentner/KVdR 535.217, Familienversicherte 175.564, Krankenstand 8,09 %.
+- Relevante Kennzahlen: Versicherte 1.159.723, Mitglieder 982.379, Rentner/KVdR 542.236, Familienversicherte 177.344, Krankenstand 5,97 %.
 - Auffaellige Entwicklung: Ohne Vorperiode aktuell als Statusbild zu lesen; nach naechstem Lauf werden Delta-Werte automatisch ausgewiesen.
 - Wahrscheinliche fachliche Herausforderung: Segmentgerechte Bearbeitung von Mitgliedern, Rentnern, Familienversicherten und AU-Faellen.
 - Wahrscheinlicher IT-Bedarf: BI, Prozessmonitoring, Inputmanagement, Automatisierung in Service- und Leistungsprozessen.
@@ -140,7 +140,7 @@
 
 ### vdek
 
-- Relevante Kennzahlen: Versicherte 29.033.663, Mitglieder 23.323.181, Rentner/KVdR 6.979.057, Familienversicherte 5.710.482, Krankenstand 5,58 %.
+- Relevante Kennzahlen: Versicherte 28.906.467, Mitglieder 23.258.806, Rentner/KVdR 6.977.576, Familienversicherte 5.647.661, Krankenstand 3,75 %.
 - Auffaellige Entwicklung: Ohne Vorperiode aktuell als Statusbild zu lesen; nach naechstem Lauf werden Delta-Werte automatisch ausgewiesen.
 - Wahrscheinliche fachliche Herausforderung: Segmentgerechte Bearbeitung von Mitgliedern, Rentnern, Familienversicherten und AU-Faellen.
 - Wahrscheinlicher IT-Bedarf: BI, Prozessmonitoring, Inputmanagement, Automatisierung in Service- und Leistungsprozessen.
@@ -181,11 +181,11 @@ Keine Einzelkassenliste gefunden. Die KM1 erlaubt in dieser Form nur eine Auswer
 
 ## Quellenhinweis
 
-- Versicherte insgesamt: KM1_Januar_bis_April_2026.pdf, S. 27
-- Mitglieder GKV gesamt: KM1_Januar_bis_April_2026.pdf, S. 26
-- Pflichtmitglieder AKV gesamt: KM1_Januar_bis_April_2026.pdf, S. 25
-- Freiwillige Mitglieder mit Anspruch auf Krankengeld: KM1_Januar_bis_April_2026.pdf, S. 25
-- Freiwillige Mitglieder ohne Anspruch auf Krankengeld: KM1_Januar_bis_April_2026.pdf, S. 25
-- Rentner / KVdR: KM1_Januar_bis_April_2026.pdf, S. 26
-- Familienversicherte: KM1_Januar_bis_April_2026.pdf, S. 27
-- Krankenstand in Prozent: KM1_Januar_bis_April_2026.pdf, S. 28
+- Versicherte insgesamt: KM1_Januar_bis_April_2026.xlsx, S. 3
+- Mitglieder GKV gesamt: KM1_Januar_bis_April_2026.xlsx, S. 3
+- Pflichtmitglieder AKV gesamt: KM1_Januar_bis_April_2026.xlsx, S. 3
+- Freiwillige Mitglieder mit Anspruch auf Krankengeld: KM1_Januar_bis_April_2026.xlsx, S. 3
+- Freiwillige Mitglieder ohne Anspruch auf Krankengeld: KM1_Januar_bis_April_2026.xlsx, S. 3
+- Rentner / KVdR: KM1_Januar_bis_April_2026.xlsx, S. 3
+- Familienversicherte: KM1_Januar_bis_April_2026.xlsx, S. 3
+- Krankenstand in Prozent: KM1_Januar_bis_April_2026.xlsx, S. 3
