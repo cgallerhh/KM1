@@ -10,7 +10,7 @@ from openpyxl import load_workbook
 from km1_common import PROCESSED_DIR, ROOT, ensure_dirs, read_json, write_json
 
 
-def latest_pdf_from_metadata() -> Path:
+def latest_source_from_metadata() -> Path:
     metadata = read_json(PROCESSED_DIR / "km1_metadata.json", {})
     if not metadata.get("lokaler_pfad"):
         raise RuntimeError("Keine Metadaten gefunden. Bitte zuerst src/download_km1.py ausfuehren.")
@@ -101,16 +101,16 @@ def write_csv(rows: list[dict], path: Path) -> None:
 
 def main() -> int:
     ensure_dirs()
-    pdf_path = latest_pdf_from_metadata()
-    if not pdf_path.exists():
-        raise RuntimeError(f"Quelldatei nicht gefunden: {pdf_path}")
-    if pdf_path.suffix.lower() == ".xlsx":
-        tables, rows = extract_xlsx(pdf_path)
+    source_path = latest_source_from_metadata()
+    if not source_path.exists():
+        raise RuntimeError(f"Quelldatei nicht gefunden: {source_path}")
+    if source_path.suffix.lower() == ".xlsx":
+        tables, rows = extract_xlsx(source_path)
     else:
-        tables, rows = extract_pdf(pdf_path)
+        tables, rows = extract_pdf(source_path)
     write_json(PROCESSED_DIR / "km1_raw_tables.json", tables)
     write_csv(rows, PROCESSED_DIR / "km1_raw_tables.csv")
-    print(f"OK: {len(rows)} Tabellenzeilen aus {pdf_path.name} extrahiert.")
+    print(f"OK: {len(rows)} Tabellenzeilen aus {source_path.name} extrahiert.")
     return 0
 
 

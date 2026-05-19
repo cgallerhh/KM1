@@ -246,7 +246,7 @@ def build_report() -> Path:
     lines.append("\n## 9. Nächste Schritte\n")
     lines.extend(
         [
-            "- Datenqualität prüfen: Stichproben gegen PDF-Seiten und Tabellenlayout durchführen.",
+            "- Datenqualität prüfen: Stichproben gegen die Excel-Tabellenblätter und bei PDF-Fallback gegen die PDF-Seiten durchführen.",
             "- Vorperioden laden und normalisierte CSV historisieren.",
             "- Top-31-Kassenliste mit Kassenart verknüpfen.",
             "- Auffälligkeiten gegen Presse, Vergaben und LinkedIn prüfen.",

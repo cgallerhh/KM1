@@ -4,7 +4,7 @@ Monatliche Auswertung der KM1-Statistik des Bundesministeriums fuer Gesundheit f
 
 ## Zweck
 
-Das Projekt laedt die jeweils aktuelle KM1-PDF-Datei, extrahiert Tabellen, normalisiert wichtige Kennzahlen nach Kassenart und erzeugt einen deutschsprachigen Markdown-Bericht fuer Vertrieb, Account Management und Business Development.
+Das Projekt laedt die jeweils aktuelle KM1-Datei bevorzugt als Excel-Datei (`.xlsx`), extrahiert Tabellen, normalisiert wichtige Kennzahlen nach Kassenart und erzeugt einen deutschsprachigen Markdown-Bericht fuer Vertrieb, Account Management und Business Development. PDF wird nur noch als Fallback genutzt, falls keine Excel-Datei verfuegbar ist.
 
 ## Installation
 
@@ -32,7 +32,7 @@ python src/report_km1.py --run-all
 
 ## Ergebnisse
 
-- `data/raw/`: heruntergeladene KM1-PDFs
+- `data/raw/`: heruntergeladene KM1-Dateien, bevorzugt `.xlsx`
 - `data/processed/km1_metadata.json`: Metadaten zur aktuellen Datei
 - `data/processed/km1_raw_tables.csv`: roh extrahierte Tabellenzellen
 - `data/processed/km1_raw_tables.json`: roh extrahierte Tabellen als JSON

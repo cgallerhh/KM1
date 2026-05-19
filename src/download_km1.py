@@ -64,7 +64,7 @@ def download_file(url: str, output_path: Path) -> None:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Laedt die aktuellste KM1-PDF-Datei.")
+    parser = argparse.ArgumentParser(description="Laedt die aktuellste KM1-Datei, bevorzugt als XLSX.")
     parser.add_argument("--year", type=int, help="Berichtsjahr erzwingen")
     parser.add_argument("--month", type=int, help="Berichtsmonat erzwingen, 1-12")
     args = parser.parse_args()

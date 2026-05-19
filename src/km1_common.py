@@ -76,13 +76,15 @@ def latest_candidate_periods(today: date | None = None, max_back: int = 6) -> li
     return periods
 
 
-def filename_for(period: Period, month_variant: str | None = None, extension: str = "pdf") -> str:
+def filename_for(period: Period, month_variant: str | None = None, extension: str = "xlsx") -> str:
     month_name = month_variant or period.month_name
     return f"KM1_Januar_bis_{month_name}_{period.year}.{extension}"
 
 
 def candidate_urls(period: Period) -> list[tuple[str, str]]:
     urls = []
+    # Excel is the primary source because it preserves the KM1 table structure.
+    # PDF remains as a fallback for months where BMG does not publish XLSX.
     for extension in ("xlsx", "pdf"):
         for variant in MONTHS[period.month][1]:
             filename = filename_for(period, variant, extension)
